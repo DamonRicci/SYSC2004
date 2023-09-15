@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlayerMinimumOpponent
+comment0.text=\r\n\ PlayerMinimumOpponent\ models\ a\ player\ with\ the\ Chance\ It\ game\ strategy\ of\r\n\ rolling\ the\ dice\ until\ they\ match\ or\ better\ the\ opponent\ who\ went\ directly\r\n\ before\ them.\r\n\r\n\ @author\ Lynn\ Marshall\r\n\ @version\ Lab\ 6\ Starting\ Point\r\n
+comment1.params=dice\ name
+comment1.target=PlayerMinimumOpponent(Dice,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PlayerMinimumOpponent\r\n\ \r\n\ @param\ dice\ The\ pair\ of\ dice\ shared\ by\ all\ players.\r\n\ @param\ name\ The\ player's\ name.\r\n
+comment2.params=
+comment2.target=boolean\ stopRolling()
+comment2.text=\ \r\n\ Encapsulates\ the\ strategy\ used\ by\ this\ player\ to\ determine\ when\ to\ \r\n\ stop\ rolling\ the\ dice\ during\ each\ turn.\r\n\ \r\n\ All\ concrete\ subclasses\ must\ provide\ a\ strategy\ for\ the\ player\r\n\ \r\n\ @return\ true\ when\ the\ player\ decides\ to\ end\ their\ current\ turn;\r\n\ \ \ \ \ \ \ \ \ otherwise\ returns\ false.\r\n
+numComments=3

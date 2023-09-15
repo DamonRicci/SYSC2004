@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ Dice\ models\ a\ pair\ of\ 6-sided\ dice.\r\n\ \r\n\ @author\ D.L.\ Bailey,\ SCE,\ Carleton\ University\r\n\ @version\ 1.01\ January\ 22,\ 2006\r\n
+comment1.params=
+comment1.target=Dice()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dice\r\n
+comment2.params=
+comment2.target=int\ roll()
+comment2.text=\r\n\ Returns\ the\ result\ of\ rolling\ a\ pair\ of\ dice.\ The\ value\ returned\r\n\ is\ a\ pseudorandom\ integer\ between\ 2\ and\ 12,\ inclusive.\r\n
+numComments=3

@@ -1,0 +1,36 @@
+Class Car
+- int id
+- boolean businessClass
+- static final double BUSINESS_SEAT_COST
+- static final double ECONOMY_SEAT_COST
+- static final int BUSINESS_SEATS
+- static final int ECONOMY_SEATS
+- Seat[] seats
+
++ Car(int carId, boolean isBusinessClass)
++ Seat[] seats()
++ boolean isBusinessClass()
++ int id()
+- void printTicket(int seatNo)
++ boolean bookNextSeat()
++ boolean cancelSeat(int seatNo)
+
+
+busClCar1
+|- id: 1
+|- businessClass: true
+|- seats: [Seat, Seat, Seat]
+  |- Seat
+    |- number: 1
+    |- cost: 125.0
+    |- booked: false
+  |- Seat
+    |- number: 2
+    |- cost: 125.0
+    |- booked: true
+  |- Seat
+    |- number: 3
+    |- cost: 125.0
+    |- booked: true
+	
+	

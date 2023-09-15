@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Heater()
+comment0.text=\r\n\ Constructs\ a\ new\ Heater\ with\ an\ initial\ temperature\ setting\ of\ 15\r\n\ degrees,\ and\ which\ increments\ and\ decrements\ the\ temperature\r\n\ setting\ in\ increments\ of\ 5\ degrees.\r\n
+comment1.params=minTemp\ maxTemp
+comment1.target=Heater(int,\ int)
+comment1.text=\r\n\ Write\ an\ appropriate\ comment\ here.\r\n
+comment2.params=
+comment2.target=int\ temperature()
+comment2.text=\r\n\ Write\ an\ appropriate\ comment\ here.\r\n
+comment3.params=
+comment3.target=void\ warmer()
+comment3.text=\r\n\ Write\ an\ appropriate\ comment\ here.\r\n
+comment4.params=
+comment4.target=void\ cooler()
+comment4.text=\r\n\ Write\ an\ appropriate\ comment\ here.\r\n
+comment5.params=newIncrement
+comment5.target=void\ setIncrement(int)
+comment5.text=\r\n\ Write\ an\ appropriate\ comment\ here.\r\n
+numComments=6

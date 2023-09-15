@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\r\n\ Die\ models\ a\ 6-sided\ die.\r\n\ \r\n\ @author\ D.L.\ Bailey,\ SCE,\ Carleton\ University\r\n\ @version\ 1.01\ January\ 22,\ 2006\r\n
+comment1.params=r
+comment1.target=Die(java.util.Random)
+comment1.text=\r\n\ Constructs\ a\ new\ Die\ object\ that\ uses\ the\ specified\r\n\ random-number\ generator.\r\n\ \r\n\ @param\ r\ the\ random\ number\ generator\ used\ by\ this\ Die.\r\n
+comment2.params=
+comment2.target=int\ roll()
+comment2.text=\r\n\ Returns\ the\ result\ of\ rolling\ a\ die.\ The\ value\ returned\r\n\ is\ a\ pseudorandom\ integer\ between\ 1\ and\ 6,\ inclusive.\r\n
+numComments=3

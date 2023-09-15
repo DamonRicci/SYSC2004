@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlayerRandom
+comment0.text=\r\n\ The\ PlayerRandom\ class\ is\ a\ subclass\ of\ the\ abstract\ Player\ class\ that\r\n\ implements\ a\ random\ strategy\ for\ playing\ the\ game\ of\ Chance-It.\r\n\ This\ player\ stops\ rolling\ when\ the\ current\ roll\ is\ less\ than\ or\ equal\ to\ the\r\n\ first\ roll.\r\n\ \r\n\ @author\ Damon\ Ricci\r\n\ @version\ 1.0\r\n
+comment1.params=d\ myName
+comment1.target=PlayerRandom(Dice,\ java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ new\ random\ player.\r\n\ \r\n\ @param\ d\ The\ dice\ object\ shared\ by\ all\ players.\r\n\ @param\ myName\ The\ player's\ name.\r\n
+comment2.params=
+comment2.target=boolean\ stopRolling()
+comment2.text=\r\n\ Returns\ true\ if\ the\ player\ decides\ to\ end\ their\ current\ turn;\ \r\n\ false\ otherwise.\r\n\ \r\n\ This\ player\ stops\ rolling\ when\ the\ current\ roll\ is\ less\ than\ or\ \r\n\ equal\ to\ the\ first\ roll.\r\n\ \r\n\ @return\ true\ if\ the\ player\ decides\ to\ end\ their\ current\ turn;\ \r\n\ \ \ \ \ \ \ \ \ false\ otherwise.\r\n
+numComments=3

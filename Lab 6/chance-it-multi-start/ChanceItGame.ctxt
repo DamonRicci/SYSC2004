@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ChanceItGame
+comment0.text=\r\n\ ChanceItGame\ plays\ the\ game\ of\ Chance-It,\ the\ simple\ dice\ game\ introduced\r\n\ by\ Joel\ Adams\ at\ Calvin\ College\ in\ the\ late\ 1990's.\r\n\ \r\n\ @author\ D.L.\ Bailey,\ SCE,\ Carleton\ University\r\n\ @version\ 1.03\ January\ 17,\ 2007\r\n\ \r\n\ @author\ Lynn\ Marshall\ &\ Damon\ Ricci\r\n\ @version\ Lab\ 6.1\r\n
+comment1.params=rounds
+comment1.target=ChanceItGame(int)
+comment1.text=\r\n\ Constructs\ a\ new\ Chance-It\ game\ with\ the\ specified\ number\ of\ rounds.\r\n\ \r\n\ @param\ rounds\ The\ number\ of\ rounds\ in\ a\ game.\r\n
+comment2.params=
+comment2.target=void\ playGame()
+comment2.text=\r\n\ Plays\ one\ game\ of\ Chance-It,\ as\ long\ as\ there\ are\ at\ least\ two\ players.\r\n
+comment3.params=round
+comment3.target=void\ playOneRound(int)
+comment3.text=\r\n\ Play\ one\ round\ of\ the\ game.\r\n\ \r\n\ @param\ round\ the\ round\ number.\r\n
+comment4.params=
+comment4.target=void\ announceResults()
+comment4.text=\r\n\ Determines\ which\ player\ won\ the\ game\ or\ if\ there\ is\ a\ tie,\ \r\n\ and\ displays\ the\ results.\r\n
+numComments=5

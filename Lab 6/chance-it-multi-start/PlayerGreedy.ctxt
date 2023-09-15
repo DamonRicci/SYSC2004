@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlayerGreedy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PlayerGreedy\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=d\ myName
+comment1.target=PlayerGreedy(Dice,\ java.lang.String)
+comment1.text=\r\n\ Constructs\ a\ new\ random\ player.\r\n\ \r\n\ @param\ d\ The\ dice\ object\ shared\ by\ all\ players.\r\n\ @param\ myName\ The\ player's\ name.\r\n
+comment2.params=
+comment2.target=boolean\ stopRolling()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=3
